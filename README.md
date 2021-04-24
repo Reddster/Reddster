@@ -1,0 +1,3 @@
+- Hi, i’m Redy.
+- I’m currently learning python. 
+- I'm looking Forward to learn and soon work with the community!
